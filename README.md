@@ -18,3 +18,4 @@ The detailed instructions are divided into the following parts:
 - Deploy the notebook as a web application
 
 Below show the viola screenshots
+(./Images/housing_units_by_year.png)
