@@ -18,6 +18,7 @@ The detailed instructions are divided into the following parts:
 - Deploy the notebook as a web application
 
 Below show the viola screenshots
-(./Images/1.png)
 
-(./Images/2.png)
+![Alt text](/images/2.png "Screenshot for Viola #2")
+
+![Alt text](/images/1.png "Screenshot for Viola #2")
